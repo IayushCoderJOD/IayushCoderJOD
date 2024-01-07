@@ -3,8 +3,19 @@
 
 - 🌱 I’m currently learning **Typescript and NextJs**
 
+- 👨‍💻 All of my projects are available at [https://ayush-tyagi.netlify.app/](https://ayush-tyagi.netlify.app/)
+
+- 💬 Ask me about **React, React Native**
+
+- 📫 How to reach me **ayushtyagi4810poco@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FuhQ7STzGTiJZX_lWXECZyxRweLtzU6V/view?usp=sharing](https://drive.google.com/file/d/1FuhQ7STzGTiJZX_lWXECZyxRweLtzU6V/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/ayushty40899956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushty40899956" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayush-tyagi-011a731b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-tyagi-011a731b5" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ayushcodemotivation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushcodemotivation" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
