@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Tyagi</h1>
-<h3 align="center">A passionate ReactJs developer from India🙏🏻</h3>
-
-- 🌱 I’m currently learning **Typescript and NextJs**
+<h3 align="center">A passionate NextJS developer from India🙏🏻</h3>
 
 - 👨‍💻 All of my projects are available at [https://ayush-tyagi.netlify.app/](https://ayush-tyagi.netlify.app/)
 
